@@ -1,1 +1,1 @@
-# drivesync-info
+個人用ObsidianノートをGoogle Driveと同期する
